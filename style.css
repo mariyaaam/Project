@@ -1,0 +1,144 @@
+body{
+    text-align: center;
+}
+.first{
+    background-color: #eea6e8;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+
+}
+.second{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.a{
+    width: 50px;
+    cursor: pointer;
+    color: rgb(182, 101, 164);
+    font-style: normal;
+    font-size: larger;
+    font-size: 30px;
+}
+.second ul li {
+    
+    display: inline-block;
+    margin:  20px;
+    position: relative;
+}
+
+.second ul li a {
+    text-decoration: none;
+    color: rgb(182, 101, 164);
+    text-transform: uppercase;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 180px;
+    color: rgb(182, 101, 164);
+    font-size: 60px;
+    position:relative;
+}
+.fourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    color: rgb(182, 101, 164);
+    font-size: 20px;
+    position:relative;
+
+}
+.fifth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(182, 101, 164);
+    font-size: 60px;
+    position: relative;
+    top: 720px;
+}
+.b{
+    
+   position: relative;
+   left: 40rem;
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   left: 10px;
+   top: 700px;
+}
+.sixth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    color: rgb(182, 101, 164);
+    font-size: 20px;
+    position:relative;
+    top: 750px;
+}
+h5{
+    width: 30%;
+    margin: auto;
+}
+.c{
+    float: left;
+    border-radius: 50%;
+    height: 150%;
+    width: 15%;
+    position: relative;
+    top: 1250px;
+    left: 20%;
+}
+.seventh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(182, 101, 164);
+    font-size: 60px;
+    position: relative;
+    top: 1200px;
+    margin-left: 30px;
+    
+}
+.eight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(182, 101, 164);
+    position: relative;
+    top: 1250px;
+    margin-left: 30px;
+    width: 30%;
+    margin: auto;
+}
+.d{
+    float: left;
+    border-radius: 50%;
+    height: 150%;
+    width: 15%;
+    position: relative;
+    top: 1450px;
+    left: 20%;
+}
+.nine{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(182, 101, 164);
+    position: relative;
+    top: 1500px;
+    margin-left: 30px;
+    width: 30%;
+    margin: auto;
+}
+
